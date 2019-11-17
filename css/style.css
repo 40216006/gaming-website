@@ -1,0 +1,12 @@
+body{
+	background-image:url('https://previews.123rf.com/images/skorzewiak/skorzewiak1903/skorzewiak190300100/119831274-retro-gamepad-controller-hologram-on-digital-background-5g-gaming-play-pad-and-online-game-abstract-.jpg');
+	background-attachment:fixed;
+	background-position:center;
+
+}
+
+.container{
+	background-color:#ccc;
+	height:100%;
+}
+
